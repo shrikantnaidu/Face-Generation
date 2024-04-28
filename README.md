@@ -8,11 +8,11 @@ This project trains a Deep Convolutional Generative Adversarial Network (DCGAN) 
 - processed_celeba_small/ - Directory of preprocessed CelebA face images
 
 ## Dependencies
-Python 3.x
-PyTorch
-Torchvision
-Matplotlib
-Numpy
+- Python 3.x
+- PyTorch
+- Torchvision
+- Matplotlib
+- Numpy
 
 ## Usage
 To run the Jupyter notebook:
